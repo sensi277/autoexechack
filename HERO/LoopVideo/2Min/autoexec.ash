@@ -18,5 +18,5 @@ sleep 2
 deletedir d:\DCIM\2minbefore
 mkdir d:\DCIM\2minbefore
 mv d:\DCIM\100GOPRO\* d:\DCIM\2minbefore\
-sleep 2
+sleep 3
 reboot yes
