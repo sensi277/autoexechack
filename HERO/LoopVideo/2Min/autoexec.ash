@@ -1,7 +1,7 @@
 sleep 2
 t app key record
 deletedir d:\pastloopedrecordings\8minbefore
-mkdir d:\DCIM\8minbefore
+mkdir d:\pastloopedrecordings\8minbefore
 mv d:\pastloopedrecordings\6minbefore\* d:\pastloopedrecordings\8minbefore\
 sleep 5
 deletedir d:\pastloopedrecordings\6minbefore
